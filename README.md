@@ -8,3 +8,7 @@ In the Titanic_RandomForest_dropna.ipnyb, Titanic_RandomForest.ipnyb, and Comple
   - (https://www.geeksforgeeks.org/titanic-survival-prediction-using-tensorflow-in-python/)
        
 _Encyclopedia Titanica_. www.encyclopedia-titanica.org.
+
+Paiva, Vinicius Barbosa. "The Complete Titanic Dataset". _Kaggle_, www.kaggle.com/datasets/vinicius150987/titanic3.
+
+"Free Titanic Theme Template PowerPoint and Google Slides". _Slide Chef_, slidechef.net/templates/free-titanic-theme-template.
